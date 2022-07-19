@@ -1,0 +1,8 @@
+hr {
+    background-color: transparent;
+    border-style: dotted none none;
+    border-width: 10px;
+    /* border-color: #4E944F; */
+    width: 10%;
+}
+
